@@ -1,2 +1,4 @@
 # Plataformas-Electorales-AI-2023
-Se utiliza langchain en combinacion con openAI para construir un herramienta Qestion/Answering  para plataformas electorales
+Herramienta AI de tipo  Qestion/Answering (QA)  para utilizar con plataformas electorales Argentinas 2023
+Construida utilizando langChain y openAI.
+
