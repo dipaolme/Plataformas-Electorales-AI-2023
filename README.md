@@ -32,7 +32,8 @@ b) seleccionar la plataforma
 
 c) Finalmente realizar la pregunta 
 
-<div style="width:60px ; height:60px">
+<img src="imgs/screenshot1.png" alt="Girl in a jacket" width="50" height="60">
+
 ![screenshoot1](imgs/screenshot1.png)
-<div>
+
    
