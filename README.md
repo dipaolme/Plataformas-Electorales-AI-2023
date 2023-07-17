@@ -32,7 +32,7 @@ b) seleccionar la plataforma
 
 c) Finalmente realizar la pregunta 
 
-![](imgs/Screenshot from 2023-07-14 15-07-03.png)
+![](https://github.com/dipaolme/imgs/Screenshot from 2023-07-14 15-07-03.png)
 
 
    
