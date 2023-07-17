@@ -32,8 +32,8 @@ b) seleccionar la plataforma
 
 c) Finalmente realizar la pregunta 
 
-<img src="imgs/screenshot1.png" alt="Girl in a jacket" width="50" height="60">
+<img src="imgs/screenshot1.png" alt="Girl in a jacket" width="200" height="300">
 
-![screenshoot1](imgs/screenshot1.png)
+#![screenshoot1](imgs/screenshot1.png)
 
    
