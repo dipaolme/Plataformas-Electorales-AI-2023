@@ -32,7 +32,7 @@ b) seleccionar la plataforma
 
 c) Finalmente realizar la pregunta 
 
-/*![Employee data](/repository/assets/employee.png?raw=true "Employee Data title")*/
+/*![](/Screenshot from 2023-07-14 15-07-03.png?raw=true "Employee Data title")*/
 
 
    
