@@ -4,7 +4,7 @@ Construida utilizando langChain y openAI.
 
 ### Requisitos
 
-* >Python3.8
+* Python3.8+
 * API Key OpenAI
 
 ### Deploy
@@ -38,5 +38,9 @@ c) Finalmente realizar la pregunta
 Asi se deberia la pagina de inicio:
 
 ![screenshoot1](imgs/screenshot2.png)
+
+
+* Nota: si se quiere agregar una nueva plataforma, colocar el documento (pdf) en la carpeta /pdfs y ejectutar `generateVectorDB.py`
+   
 
    
