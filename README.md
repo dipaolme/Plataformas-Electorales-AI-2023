@@ -32,7 +32,7 @@ b) seleccionar la plataforma
 
 c) Finalmente realizar la pregunta 
 
+<div style="width:60px ; height:60px">
 ![screenshoot1](imgs/screenshot1.png)
-
-
+<div>
    
