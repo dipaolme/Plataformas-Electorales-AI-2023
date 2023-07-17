@@ -41,6 +41,8 @@ Asi se deberia la pagina de inicio:
 
 ![screenshoot1](imgs/screenshot3.png)
 
+![screenshoot1](imgs/screenshot1.png)
+
 
 * Nota: si se quiere agregar una nueva plataforma, colocar el documento (pdf) en la carpeta /pdfs y ejectutar `generateVectorDB.py`
    
