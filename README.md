@@ -2,7 +2,10 @@
 Herramienta AI de tipo  Qestion/Answering (QA)  para utilizar con plataformas electorales Argentinas 2023
 Construida utilizando langChain y openAI.
 
+### Requisitos
 
+* >Python3.8
+* API Key OpenAI
 
 ### Deploy
 
@@ -31,6 +34,8 @@ a) Poner la api key de openAI
 b) seleccionar la plataforma
 
 c) Finalmente realizar la pregunta 
+
+Asi se deberia la pagina de inicio:
 
 ![screenshoot1](imgs/screenshot2.png)
 
