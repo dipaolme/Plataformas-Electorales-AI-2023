@@ -32,7 +32,7 @@ b) seleccionar la plataforma
 
 c) Finalmente realizar la pregunta 
 
-![screenshoot1](https://github.com/dipaolme/Plataformas-Electorales-AI-2023/imgs/Screenshot from 2023-07-14 15-07-03.png)
+![screenshoot1]('https://github.com/dipaolme/Plataformas-Electorales-AI-2023/imgs/Screenshot from 2023-07-14 15-07-03.png')
 
 
    
